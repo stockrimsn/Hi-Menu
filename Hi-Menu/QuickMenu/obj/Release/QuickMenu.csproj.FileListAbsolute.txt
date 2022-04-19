@@ -1,0 +1,75 @@
+C:\Users\domin\source\repos\QuickMenu\QuickMenu\bin\Release\QuickMenu.exe.config
+C:\Users\domin\source\repos\QuickMenu\QuickMenu\bin\Release\QuickMenu.exe
+C:\Users\domin\source\repos\QuickMenu\QuickMenu\bin\Release\QuickMenu.pdb
+C:\Users\domin\source\repos\QuickMenu\QuickMenu\obj\Release\QuickMenu.csproj.AssemblyReference.cache
+C:\Users\domin\source\repos\QuickMenu\QuickMenu\obj\Release\QuickMenu.Form1.resources
+C:\Users\domin\source\repos\QuickMenu\QuickMenu\obj\Release\QuickMenu.Properties.Resources.resources
+C:\Users\domin\source\repos\QuickMenu\QuickMenu\obj\Release\QuickMenu.csproj.GenerateResource.cache
+C:\Users\domin\source\repos\QuickMenu\QuickMenu\obj\Release\QuickMenu.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\QuickMenu\QuickMenu\obj\Release\QuickMenu.exe
+C:\Users\domin\source\repos\QuickMenu\QuickMenu\obj\Release\QuickMenu.pdb
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\bin\Release\QuickMenu.exe.config
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\bin\Release\QuickMenu.exe
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\bin\Release\QuickMenu.pdb
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\obj\Release\QuickMenu.csproj.AssemblyReference.cache
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\obj\Release\QuickMenu.Form1.resources
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\obj\Release\QuickMenu.Form2.resources
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\obj\Release\QuickMenu.Properties.Resources.resources
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\obj\Release\QuickMenu.csproj.GenerateResource.cache
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\obj\Release\QuickMenu.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\obj\Release\QuickMenu.exe
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\obj\Release\QuickMenu.pdb
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\QuickMenu\obj\Release\QuickMenu.csproj.AssemblyReference.cache
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\QuickMenu\obj\Release\QuickMenu.csproj.SuggestedBindingRedirects.cache
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\QuickMenu\obj\Release\QuickMenu.Form1.resources
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\QuickMenu\obj\Release\QuickMenu.Form2.resources
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\QuickMenu\obj\Release\QuickMenu.csproj.GenerateResource.cache
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\QuickMenu\obj\Release\QuickMenu.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\QuickMenu\bin\Release\Hi-Menu.exe.config
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\QuickMenu\bin\Release\Hi-Menu.exe
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\QuickMenu\bin\Release\Hi-Menu.pdb
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\QuickMenu\obj\Release\QuickMenu.Form3.resources
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\QuickMenu\obj\Release\Himanu.Properties.Resources.resources
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\QuickMenu\obj\Release\Hi-Menu.exe
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\QuickMenu\obj\Release\Hi-Menu.pdb
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\QuickMenu\bin\Release\Hi-Menu.exe.manifest
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\QuickMenu\bin\Release\Hi-Menu.application
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\QuickMenu\obj\Release\Hi-Menu.TrustInfo.xml
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\QuickMenu\obj\Release\Hi-Menu.exe.manifest
+C:\Users\domin\Desktop\QuickMenu\QuickMenu\QuickMenu\obj\Release\Hi-Menu.application
+C:\Users\domin\Documents\GitHub\Hizli-Menu\Hi-Menu\Hi-Menu\QuickMenu\bin\Release\Hi-Menu.exe.config
+C:\Users\domin\Documents\GitHub\Hizli-Menu\Hi-Menu\Hi-Menu\QuickMenu\bin\Release\Hi-Menu.exe.manifest
+C:\Users\domin\Documents\GitHub\Hizli-Menu\Hi-Menu\Hi-Menu\QuickMenu\bin\Release\Hi-Menu.application
+C:\Users\domin\Documents\GitHub\Hizli-Menu\Hi-Menu\Hi-Menu\QuickMenu\bin\Release\Hi-Menu.exe
+C:\Users\domin\Documents\GitHub\Hizli-Menu\Hi-Menu\Hi-Menu\QuickMenu\bin\Release\Hi-Menu.pdb
+C:\Users\domin\Documents\GitHub\Hizli-Menu\Hi-Menu\Hi-Menu\QuickMenu\obj\Release\QuickMenu.csproj.AssemblyReference.cache
+C:\Users\domin\Documents\GitHub\Hizli-Menu\Hi-Menu\Hi-Menu\QuickMenu\obj\Release\QuickMenu.csproj.SuggestedBindingRedirects.cache
+C:\Users\domin\Documents\GitHub\Hizli-Menu\Hi-Menu\Hi-Menu\QuickMenu\obj\Release\QuickMenu.Form1.resources
+C:\Users\domin\Documents\GitHub\Hizli-Menu\Hi-Menu\Hi-Menu\QuickMenu\obj\Release\QuickMenu.Form2.resources
+C:\Users\domin\Documents\GitHub\Hizli-Menu\Hi-Menu\Hi-Menu\QuickMenu\obj\Release\QuickMenu.Form3.resources
+C:\Users\domin\Documents\GitHub\Hizli-Menu\Hi-Menu\Hi-Menu\QuickMenu\obj\Release\Himanu.Properties.Resources.resources
+C:\Users\domin\Documents\GitHub\Hizli-Menu\Hi-Menu\Hi-Menu\QuickMenu\obj\Release\QuickMenu.csproj.GenerateResource.cache
+C:\Users\domin\Documents\GitHub\Hizli-Menu\Hi-Menu\Hi-Menu\QuickMenu\obj\Release\QuickMenu.csproj.CoreCompileInputs.cache
+C:\Users\domin\Documents\GitHub\Hizli-Menu\Hi-Menu\Hi-Menu\QuickMenu\obj\Release\Hi-Menu.TrustInfo.xml
+C:\Users\domin\Documents\GitHub\Hizli-Menu\Hi-Menu\Hi-Menu\QuickMenu\obj\Release\Hi-Menu.exe.manifest
+C:\Users\domin\Documents\GitHub\Hizli-Menu\Hi-Menu\Hi-Menu\QuickMenu\obj\Release\Hi-Menu.application
+C:\Users\domin\Documents\GitHub\Hizli-Menu\Hi-Menu\Hi-Menu\QuickMenu\obj\Release\Hi-Menu.exe
+C:\Users\domin\Documents\GitHub\Hizli-Menu\Hi-Menu\Hi-Menu\QuickMenu\obj\Release\Hi-Menu.pdb
+D:\Github Repos\Hi-Menu\Hi-Menu\QuickMenu\bin\Release\Hi-Menu.exe.config
+D:\Github Repos\Hi-Menu\Hi-Menu\QuickMenu\bin\Release\Hi-Menu.exe.manifest
+D:\Github Repos\Hi-Menu\Hi-Menu\QuickMenu\bin\Release\Hi-Menu.application
+D:\Github Repos\Hi-Menu\Hi-Menu\QuickMenu\bin\Release\Hi-Menu.exe
+D:\Github Repos\Hi-Menu\Hi-Menu\QuickMenu\bin\Release\Hi-Menu.pdb
+D:\Github Repos\Hi-Menu\Hi-Menu\QuickMenu\obj\Release\QuickMenu.csproj.AssemblyReference.cache
+D:\Github Repos\Hi-Menu\Hi-Menu\QuickMenu\obj\Release\QuickMenu.csproj.SuggestedBindingRedirects.cache
+D:\Github Repos\Hi-Menu\Hi-Menu\QuickMenu\obj\Release\QuickMenu.Form1.resources
+D:\Github Repos\Hi-Menu\Hi-Menu\QuickMenu\obj\Release\QuickMenu.Form2.resources
+D:\Github Repos\Hi-Menu\Hi-Menu\QuickMenu\obj\Release\QuickMenu.Form3.resources
+D:\Github Repos\Hi-Menu\Hi-Menu\QuickMenu\obj\Release\Himanu.Properties.Resources.resources
+D:\Github Repos\Hi-Menu\Hi-Menu\QuickMenu\obj\Release\QuickMenu.csproj.GenerateResource.cache
+D:\Github Repos\Hi-Menu\Hi-Menu\QuickMenu\obj\Release\QuickMenu.csproj.CoreCompileInputs.cache
+D:\Github Repos\Hi-Menu\Hi-Menu\QuickMenu\obj\Release\Hi-Menu.TrustInfo.xml
+D:\Github Repos\Hi-Menu\Hi-Menu\QuickMenu\obj\Release\Hi-Menu.exe.manifest
+D:\Github Repos\Hi-Menu\Hi-Menu\QuickMenu\obj\Release\Hi-Menu.application
+D:\Github Repos\Hi-Menu\Hi-Menu\QuickMenu\obj\Release\Hi-Menu.exe
+D:\Github Repos\Hi-Menu\Hi-Menu\QuickMenu\obj\Release\Hi-Menu.pdb

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Hi-Menu.exe" version="1.0.0.1" publicKeyToken="4c25ffff19eb85ba" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Adsız.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Hi-Menu" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Hi-Menu.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+             If you want to change the Windows User Account Control level replace the 
+             requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel element will disable file and registry virtualization. 
+            Remove this element if your application requires this virtualization for backwards
+            compatibility.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Hi-Menu.exe" size="3259832">
+      <assemblyIdentity name="Hi-Menu" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>+aHSUiH0LmtFxNy6zmkrWuLFDei8yTOhNXmawaTse5M=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Adsız.ico" size="22094">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>onu4SJXljvyLOPma1zNlzLVzedJstD+JWJpIgYNIGKE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Hi-Menu.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="qtb.ico" size="165651">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>tpJ2cQmoeCTv1B9JtzofRMuWmqua6dLMo+SQkUf7OZw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of the Windows versions that this application has been tested on
+           and is designed to work with. Uncomment the appropriate elements
+           and Windows will automatically select the most compatible environment. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=STOCKRIM\domin" issuerKeyHash="b98ee2b6f9abe9f0d7f9e2231d6007c80f4d051c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>ISxUXOZz8T8F9VYbVMjgOrUR19ecOFym5NGvnPrTxN4=</DigestValue></Reference></SignedInfo><SignatureValue>fkChSUPZVw/poNEIy/3o360FYhuRFLN7PdWyRjapMBf1f2PJ0q6CQTGHB4Q/yxGym824TRRBP0uzGWXNjLI/gd7xc0dIUXyRPmigGNg+peoPQ5xArtAx5GO43pwyndtU8kCRSQTYUt8O5gkP3+ka1kWrVIokTPDGfVy/vFO5XEM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vHyxY00mxXOIPsBnJP3uRzoaAjGaQJWbScs5QApYzgNHZklbtXwwzwjvDV0s4GwFsPYL9uryQyHI7wibbaOQK6hinXu2Y4DsxQOroBe2zf/FByI0SxzbkP6qIxQgTL4Ws1t2IsvBflbcn80d0Sddn1mIpn3UjT6tKS5cgLL25p0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="dec4d3fa9cafd1e4a65c389cd7d711b53ae0c8541b56f5053ff173e65c542c21" Description="" Url=""><as:assemblyIdentity name="Hi-Menu.exe" version="1.0.0.1" publicKeyToken="4c25ffff19eb85ba" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=STOCKRIM\domin</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>UtvMBj1QoUMJFqZkDcIyb4iqM0dGvVE/+xcJ3FHO+bI=</DigestValue></Reference></SignedInfo><SignatureValue>sbbq4WOjjw27SAo3HAHnR3z+Od7dOwM39OfK+QhtqJPXYdDK4hfXFzfIavfMDlEhV3NH8cXnkDzPSv6w+PZGkJQBETb6L5nLL94UaY9k8rVBhW8Qp1Z6k4cshqOJLE5J+uBu5+ZKBAudEdse1AK189eKdDxkQPDjpK73NUHTk6c=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vHyxY00mxXOIPsBnJP3uRzoaAjGaQJWbScs5QApYzgNHZklbtXwwzwjvDV0s4GwFsPYL9uryQyHI7wibbaOQK6hinXu2Y4DsxQOroBe2zf/FByI0SxzbkP6qIxQgTL4Ws1t2IsvBflbcn80d0Sddn1mIpn3UjT6tKS5cgLL25p0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQVeK0X/yelL1Asp/Ovrkz7zANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwAUwBUAE8AQwBLAFIASQBNAFwAZABvAG0AaQBuMB4XDTIxMTIzMTEyMzkwMFoXDTIyMTIzMTE4MzkwMFowJzElMCMGA1UEAx4cAFMAVABPAEMASwBSAEkATQBcAGQAbwBtAGkAbjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAvHyxY00mxXOIPsBnJP3uRzoaAjGaQJWbScs5QApYzgNHZklbtXwwzwjvDV0s4GwFsPYL9uryQyHI7wibbaOQK6hinXu2Y4DsxQOroBe2zf/FByI0SxzbkP6qIxQgTL4Ws1t2IsvBflbcn80d0Sddn1mIpn3UjT6tKS5cgLL25p0CAwEAATANBgkqhkiG9w0BAQsFAAOBgQBJBqtIKAOF5EODIzIppsnr5J5AdGZ1mws8my9CfA2Uu13ZYJHd86cFXRA2c9zMDpHgacBseP1z1zG9hxXLBq+KUzCb/H3d7NV7FzPWs5jZ5+SatoCHYMDmDiMEnfFpsrfchqLC0VCZEQm3kcj4wHReYvpouWEKbyfo+3GqwgGu8g==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

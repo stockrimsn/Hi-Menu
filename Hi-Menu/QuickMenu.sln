@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickMenu", "QuickMenu\QuickMenu.csproj", "{748A0665-7761-4E77-858F-96E0676E0C3A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Hi-Menu Setup", "Hi-Menu Setup\Hi-Menu Setup.vdproj", "{84D83BA2-FF65-4BAF-BD9D-D847E2B1ED0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{748A0665-7761-4E77-858F-96E0676E0C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748A0665-7761-4E77-858F-96E0676E0C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748A0665-7761-4E77-858F-96E0676E0C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748A0665-7761-4E77-858F-96E0676E0C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84D83BA2-FF65-4BAF-BD9D-D847E2B1ED0A}.Debug|Any CPU.ActiveCfg = Debug
+		{84D83BA2-FF65-4BAF-BD9D-D847E2B1ED0A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72126819-ED86-444D-81BE-3A33C0347256}
+	EndGlobalSection
+EndGlobal
